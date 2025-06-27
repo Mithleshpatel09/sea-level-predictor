@@ -1,1 +1,26 @@
+# Virtual environment
+venv/
+.env/
+
+# Python specific files
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Plot output
+*.png
+*.jpg
+*.jpeg
+*.gif
