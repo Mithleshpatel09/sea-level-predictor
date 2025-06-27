@@ -64,7 +64,7 @@ Integrate additional features (e.g., temperature anomalies, CO2 data).
 Develop an interactive web application for real-time predictions.
 
 📧 Connect with Me
-LinkedIn: linkedin.com/in/mithleshpatel09
+LinkedIn: https://www.linkedin.com/in/mithlesh-singh-patel-3753602ba/
 
 Email: mithleshsinghpatel779@gmail.com
 
